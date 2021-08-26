@@ -21,4 +21,4 @@
 
 ##
 
-<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+<img src="https://github.com/JOSETABOSA47/JOSETABOSA47/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
