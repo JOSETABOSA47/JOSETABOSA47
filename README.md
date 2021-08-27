@@ -3,7 +3,7 @@
 - 🔭 Analista de Logística I
 - 🌱 Linguagem Python - Automação
 - 🤔 Aprendendo Desenvolvimento com Python em Power BI
-- 📫 Como mim contata: josetabosa47@gmail.com
+- 📫 Como me contatar: josetabosa47@gmail.com
 <div>
   <a href="https://github.com/JOSETABOSA47">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=JOSETABOSA47&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
