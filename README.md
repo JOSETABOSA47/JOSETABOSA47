@@ -26,8 +26,6 @@ Contact :iphone:
     <a href="mailto:josetabosa47@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josetabosa47@gmail.com">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jos%C3%A9-tabosa-155428167/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jos%C3%A9-tabosa-155428167/">
 </div>
       
 ##
