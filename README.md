@@ -39,7 +39,7 @@ Data Visualization:
 Contact :iphone:
 <div><br>
     <a href="mailto:josetabosa47@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josetabosa47@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/64px-Gmail_Icon_%282013-2020%29.svg.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
       
