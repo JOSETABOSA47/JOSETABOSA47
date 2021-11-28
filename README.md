@@ -10,6 +10,7 @@
 </a></div>
 
 ##
+Programming Languages:
 
 <div><br>
   <img align="center" alt="Jose-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
@@ -20,7 +21,20 @@
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
 </div>
 
+##
+Database:
+<div><br>
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:100%;">
+ </div>
 
+##
+Data Visualization:
+<div><br>
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="max-width:100%;">
+</div>
+  
 ## 
 Contact :iphone:
 <div><br>
