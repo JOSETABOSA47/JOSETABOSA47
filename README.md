@@ -34,6 +34,7 @@ Data Visualization:
 <div><br>
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://s3.amazonaws.com/cdn.33voices.com/presentations/567956383662300010000005/images/hero-07bb88075fb1a32bb828e64324b4ee20-medium.png" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" style="max-width:100%;">
 </div>
   
 ## 
