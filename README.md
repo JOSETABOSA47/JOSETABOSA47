@@ -42,8 +42,9 @@ IDEs/Editors 👩‍💻
 <div><br>
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://media.macosicons.com/parse/files/macOSicons/c5e52781cde1a1c5a8c82ad3359ceb76_low_res_PyCharm.png" style="max-width:100%;">
-  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.probabilisticworld.com/wp-content/uploads/2020/08/jupyter-notebook-logo.jpg" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.imagemhost.com.br/images/2021/11/29/download-removebg-preview.png" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://1.bp.blogspot.com/-05cAQ6GDP9k/Vy8Zvg5WavI/AAAAAAAAAX8/UB7fL_WZBzczebvGKrPgHfEN8cGbeYCtwCKgB/s400/dev_c___by_capristo.png" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://cdn-ddond.nitrocdn.com/zadWYKDUTWJquhMwLmfcSxgDPqZCqDzy/assets/static/optimized/rev-a34e3a7/wp-content/uploads/2021/04/intellij-logo@3x.png" style="max-width:100%;">
 </div>
 
 ## 
