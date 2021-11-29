@@ -17,13 +17,13 @@ Programming Languages:
   <img align="center" alt="Jose-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
   <img align="center" alt="Jose-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
-  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
 </div>
 
 ##
 Database:
 <div><br>
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:100%;">
