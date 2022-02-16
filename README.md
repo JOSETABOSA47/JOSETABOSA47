@@ -1,8 +1,8 @@
 ### Oiii! Eu sou a José Tabosa 👋
 
-- 🔭 Analista de Logística I
+- 🔭 Analista de Desenvolvimento
 - 🌱 Linguagem Python - Automação
-- 🤔 Aprendendo Desenvolvimento com Python em Power BI e Java.
+- 🤔 Aprendendo Desenvolvimento com Python, integração e Java.
 <div>
   <a href="https://github.com/JOSETABOSA47">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=JOSETABOSA47&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
