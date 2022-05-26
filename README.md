@@ -1,8 +1,26 @@
-### Oiii! Eu sou a José Tabosa 👋
+<img align="center" src="https://github.com/JOSETABOSA47/JOSETABOSA47/blob/main/github-header-image.png"/>
+</p>
+<br>
+
+- 🔭  I’m currently working on [Mamoeiro](https://www.mamoeiro.com.br/)
+
+- 🌱  I’m always studying **Java, Python, Integração API**
+
+- 💬  Ask me about **Windows**
+
+- 🚀  How to reach me  [jtsobrinho.dev](https://www.linkedin.com/in/jos%C3%A9-tabosa-155428167)
+
+- 😻 Fun fact: I love motorcycles 
+
+
+<br>
+
+
+<!-- ### Oiii! Eu sou a José Tabosa 👋
 
 - 🔭 Analista de Desenvolvimento
 - 🌱 Linguagem Python - Automação
-- 🤔 Aprendendo Desenvolvimento com Python, integração e Java.
+- 🤔 Aprendendo Desenvolvimento com Python, integração e Java. -->
 <div>
   <a href="https://github.com/JOSETABOSA47">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=JOSETABOSA47&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
@@ -48,12 +66,12 @@ IDEs/Editors 👩‍💻
 </div>
 
 ## 
-Contact :iphone:
+<!-- Contact :iphone:
 <div><br>
     <a href="mailto:josetabosa47@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/64px-Gmail_Icon_%282013-2020%29.svg.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</div> -->
       
 ##
       
