@@ -8,7 +8,7 @@
 
 - 💬  Ask me about **Windows**
 
-- 🚀  How to reach me  [jtsobrinho.dev](https://www.linkedin.com/in/jos%C3%A9-tabosa-155428167)
+- 🚀  How to reach me  [jtsobrinho.dev](https://drive.google.com/file/d/1Ykd39Z8VH2bIhygZn2r55tAN6eJKSxdu/view)
 
 - 😻 Fun fact: I love motorcycles 
 
