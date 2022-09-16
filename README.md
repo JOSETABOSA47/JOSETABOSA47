@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on [Mamoeiro](https://www.mamoeiro.com.br/)
 
-- 🌱  I’m always studying **Java, Python, Integração API**
+- 🌱  I’m always studying **Java, Angular, Python, Integração API**
 
 - 💬  Ask me about **Windows**
 
