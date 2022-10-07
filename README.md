@@ -36,6 +36,7 @@ Programming Languages:
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
   <img align="center" alt="Jose-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
 </div>
 
 ##
