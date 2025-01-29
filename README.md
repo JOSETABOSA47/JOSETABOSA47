@@ -60,10 +60,10 @@ Data Visualization:
 IDEs/Editors 👩‍💻
 <div><br>
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" style="max-width:100%;">
-  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://i.im.ge/2023/08/01/9RR4nT.image-removebg-preview.png" style="max-width:100%;">
+<!--   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://i.im.ge/2023/08/01/9RR4nT.image-removebg-preview.png" style="max-width:100%;">
   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://www.imagemhost.com.br/images/2021/11/29/download-removebg-preview.png" style="max-width:100%;">
-  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://1.bp.blogspot.com/-05cAQ6GDP9k/Vy8Zvg5WavI/AAAAAAAAAX8/UB7fL_WZBzczebvGKrPgHfEN8cGbeYCtwCKgB/s400/dev_c___by_capristo.png" style="max-width:100%;">
-  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" style="max-width:100%;">
+  <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://1.bp.blogspot.com/-05cAQ6GDP9k/Vy8Zvg5WavI/AAAAAAAAAX8/UB7fL_WZBzczebvGKrPgHfEN8cGbeYCtwCKgB/s400/dev_c___by_capristo.png" style="max-width:100%;"> -->
+<!--   <img align="center" alt="Jose-Csharp" height="40" width="50" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" style="max-width:100%;"> -->
 </div>
 
 ## 
