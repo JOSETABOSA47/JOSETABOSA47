@@ -12,22 +12,14 @@
 
 - 😻 Fun fact: I love motorcycles 
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSETABOSA47&theme=nord" alt="GitHub Streak" width="100%"/>
+</div>
 
 <br>
 
-
-<!-- ### Oiii! Eu sou a José Tabosa 👋
-
-- 🔭 Analista de Desenvolvimento
-- 🌱 Linguagem Python - Automação
-- 🤔 Aprendendo Desenvolvimento com Python, integração e Java. -->
-<div>
-  <a href="https://github.com/JOSETABOSA47">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=JOSETABOSA47&amp;show_icons=true&amp;theme=nord&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSETABOSA47&amp;layout=compact&amp;langs_count=7&amp;theme=nord" style="max-width:100%;">
-</a></div>
-
-##
 Programming Languages:
 
 <div><br>
@@ -74,10 +66,7 @@ IDEs/Editors 👩‍💻
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div> -->
       
-##
-      
 <!-- <img src="https://github.com/JOSETABOSA47/JOSETABOSA47/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;"> -->
-##
 <div align="center">
   <img src="https://github.com/JOSETABOSA47/JOSETABOSA47/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 </div>
